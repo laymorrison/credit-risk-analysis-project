@@ -1,4 +1,5 @@
 # 📊 Credit Risk Analysis & Profitability Dashboard
+# By: Laymoni Morrison
 
 This project analyzes credit risk and loan profitability using peer-to-peer lending data. Through a combination of data cleaning, feature engineering, machine learning modeling, and interactive dashboard development, the goal was to uncover insights that help evaluate lending strategies and default risk.
 
