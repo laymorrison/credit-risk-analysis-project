@@ -37,7 +37,6 @@ Modeling and data processing were conducted in Google Colab using Python. The ke
 | `notebooks/`                      | Contains the Google Colab notebooks used for data cleaning, feature engineering, and modeling |
 | `report/`                         | Final report in PDF format documenting the entire process and insights |
 | `dashboard/`                      | Contains a static PDF export of the interactive Power BI dashboard |
-| `Credit_Risk_Dashboard_Recording.mp4` | Walkthrough video of the interactive Power BI dashboard (with tooltips, filters, maps, etc.) |
 
 ---
 
@@ -58,12 +57,12 @@ These questions are explored in both the dashboard and the written report.
 
 ---
 
-## 🖥 Dashboard Walkthrough Video
+## 📊 Dashboard Walkthrough Video
 
-Watch the full interactive walkthrough below:
+Want to see the dashboard in action? Watch the full interactive walkthrough below:
 
-📹 [Click to view Credit_Risk_Dashboard_Recording](./media/Credit_Risk_Dashboard_Recording.mp4)
-
+[![Watch the video](https://img.youtube.com/vi/IvKc_jsBXBg/hqdefault.jpg)](https://youtu.be/IvKc_jsBXBg)  
+📹 [Watch the Credit Risk Dashboard Walkthrough on YouTube](https://youtu.be/IvKc_jsBXBg)
 ---
 
 ## 🧾 Credit
