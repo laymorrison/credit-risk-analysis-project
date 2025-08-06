@@ -61,8 +61,7 @@ These questions are explored in both the dashboard and the written report.
 
 Want to see the dashboard in action? Watch the full interactive walkthrough below:
 
-[![Watch the video](https://img.youtube.com/vi/IvKc_jsBXBg/hqdefault.jpg)](https://youtu.be/IvKc_jsBXBg)  
-📹 [Watch the Credit Risk Dashboard Walkthrough on YouTube](https://youtu.be/IvKc_jsBXBg)
+[![Watch the video](https://img.youtube.com/vi/IvKc_jsBXBg/hqdefault.jpg)](https://youtu.be/IvKc_jsBXBg) 
 ---
 
 ## 🧾 Credit
